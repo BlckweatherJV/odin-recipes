@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes 
+I can now write a boilerplate, i can write elementary html code and identify my issues and solve them. I can creat repositorys and clone them, I can aptly use my VM to make commands. I can add pictures and links and resize images and styalize my text and content.
